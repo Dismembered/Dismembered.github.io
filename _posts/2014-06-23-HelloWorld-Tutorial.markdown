@@ -15,10 +15,10 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 Writing your first code:
 
-Step 1:
+**Step 1:**
 Create a new class within the `Sketch package` name HelloWorld.
 
-Step 2:
+**Step 2:**
 Create a new GraphVisualizer 
 {% highlight java  %}
 
@@ -26,7 +26,7 @@ GraphVisualizer gv = new GraphVisualizer();
 
 {% endhighlight %}
 
-Step 3:
+**Step 3:**
 
 Initialize Bridges
 {% highlight java  %}
@@ -35,7 +35,7 @@ Bridge.init(0, "Your API key here", gv);
 
 {% endhighlight %}
 
-Step 4:
+**Step 4:**
 
 Create your first Vertex.
 {% highlight java  %}
@@ -44,7 +44,7 @@ Vertex HelloWorld = new Vertex("HelloWorld", gv);
 
 {% endhighlight %}
 
-Step 5:
+**Step 5:**
 
 Submit the visualization data.
 Create your first Vertex.
@@ -54,7 +54,7 @@ Bridge.complete();
 
 {% endhighlight %}
 
-Step 6:
+**Step 6:**
 
 View your visualization
 
