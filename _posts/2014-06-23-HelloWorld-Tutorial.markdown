@@ -19,7 +19,7 @@ Writing your first code:
 Create a new class within the `Sketch package` name HelloWorld.
 
 **Step 2:**
-Create a new GraphVisualizer 
+Create a new GraphVisualizer. 
 {% highlight java  %}
 
 GraphVisualizer gv = new GraphVisualizer();
@@ -27,7 +27,7 @@ GraphVisualizer gv = new GraphVisualizer();
 {% endhighlight %}
 
 **Step 3:**
-Initialize Bridges
+Initialize Bridges.
 {% highlight java  %}
 
 Bridge.init(0, "Your API key here", gv);
@@ -44,7 +44,6 @@ Vertex HelloWorld = new Vertex("HelloWorld", gv);
 
 **Step 5:**
 Submit the visualization data.
-Create your first Vertex.
 {% highlight java  %}
 
 Bridge.complete();
@@ -52,7 +51,7 @@ Bridge.complete();
 {% endhighlight %}
 
 **Step 6:**
-View your visualization
+View your visualization.
 
 In the console there will be a string giving you a link to view your visualization.
 
