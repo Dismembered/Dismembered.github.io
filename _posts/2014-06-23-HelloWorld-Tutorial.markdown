@@ -12,6 +12,14 @@ Download and install Eclipse [here](https://www.eclipse.org/downloads/index-java
 Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and create an account. After you create your account, click on your profile name name in the upper right corner to view your profile. Once in your profile, click `Generate new API key` and remember the number generated.
 
 ![drawing](/images/screenshot_0.png)
+![drawing](/images/screenshot_1.png)
+![drawing](/images/screenshot_2.png)
+![drawing](/images/screenshot_3.png)
+![drawing](/images/screenshot_4.png)
+![drawing](/images/screenshot_5.png)
+![drawing](/images/screenshot_6.png)
+![drawing](/images/screenshot_7.png)
+![drawing](/images/screenshot_8.png)
 
 `Insert statements about downloading the Java Bridges Client`
 
