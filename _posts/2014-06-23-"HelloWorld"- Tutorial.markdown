@@ -7,6 +7,6 @@ categories: jekyll update
 
 Installation:
 
-Download and isntall Eclipse [here](https://www.eclipse.org/downloads/index-java8.php).
+Download and isntall Eclipse [here](https://www.eclipse.org/downloads/index-java8.php). Choose 'Eclipse IDE for Java Developers'.
 
 Install current version of the JDK (Java 7+)
