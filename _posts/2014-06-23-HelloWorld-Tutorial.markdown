@@ -27,7 +27,6 @@ GraphVisualizer gv = new GraphVisualizer();
 {% endhighlight %}
 
 **Step 3:**
-
 Initialize Bridges
 {% highlight java  %}
 
@@ -36,7 +35,6 @@ Bridge.init(0, "Your API key here", gv);
 {% endhighlight %}
 
 **Step 4:**
-
 Create your first Vertex.
 {% highlight java  %}
 
@@ -45,7 +43,6 @@ Vertex HelloWorld = new Vertex("HelloWorld", gv);
 {% endhighlight %}
 
 **Step 5:**
-
 Submit the visualization data.
 Create your first Vertex.
 {% highlight java  %}
@@ -55,7 +52,6 @@ Bridge.complete();
 {% endhighlight %}
 
 **Step 6:**
-
 View your visualization
 
 In the console there will be a string giving you a link to view your visualization.
