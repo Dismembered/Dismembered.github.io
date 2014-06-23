@@ -18,8 +18,19 @@ Writing your first code:
 Step 1:
 Create a new class withing the `Sketch package` name HelloWorld.
 
-Step 2;
+Step 2:
 Create a new GraphVisualizer 
 {% highlight java  %}
+
 GraphVisualizer gv = new GraphVisualizer();
+
+{% endhighlight %}
+
+Step 3:
+
+Initialize Bridges
+{% highlight java  %}
+
+Bridge.init(0, "`Your API key here`", gv);
+
 {% endhighlight %}
