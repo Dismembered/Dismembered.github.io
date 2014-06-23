@@ -25,7 +25,7 @@ import bridges.*;
 {% endhighlight %}
 
 **Step 2:**
-Create a new class within the `YourName package` named HelloWorld.
+Create a new class within the `YourName package` named `HelloWorld`.
 
 **Step 3:**
 Create a new GraphVisualizer. 
