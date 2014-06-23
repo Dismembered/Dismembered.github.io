@@ -11,15 +11,23 @@ Download and install Eclipse [here](https://www.eclipse.org/downloads/index-java
 
 Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and create an account. After you create your account, click on your profile name name in the upper right corner to view your profile. Once in your profile, click `Generate new API key` and remember the number generated.
 
-`File` -> `New Project`
+
 `Insert statements about downloading the Java Bridges Client`
 
 Writing your first code:
 
 **Step 1:**
-Create a new class within the `Sketch package` name HelloWorld.
+Import the Bridges package.
+{% highlight java  %}
+
+import bridges.*;
+
+{% endhighlight %}
 
 **Step 2:**
+Create a new class within the `YourName package` named HelloWorld.
+
+**Step 3:**
 Create a new GraphVisualizer. 
 {% highlight java  %}
 
@@ -27,7 +35,7 @@ GraphVisualizer gv = new GraphVisualizer();
 
 {% endhighlight %}
 
-**Step 3:**
+**Step 4:**
 Initialize Bridges.
 {% highlight java  %}
 
@@ -35,7 +43,7 @@ Bridge.init(0, "Your API key here", gv);
 
 {% endhighlight %}
 
-**Step 4:**
+**Step 5:**
 Create your first Vertex.
 {% highlight java  %}
 
@@ -43,7 +51,7 @@ Vertex HelloWorld = new Vertex("HelloWorld", gv);
 
 {% endhighlight %}
 
-**Step 5:**
+**Step 6:**
 Submit the visualization data.
 {% highlight java  %}
 
@@ -51,7 +59,7 @@ Bridge.complete();
 
 {% endhighlight %}
 
-**Step 6:**
+**Step 7:**
 View your visualization.
 
 In the console there will be a string giving you a link to view your visualization.
