@@ -13,7 +13,7 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 **Step 1:**
 Start Eclipse and create a new Java Project.
-..*`File` -> `Java Project`
+...`File` -> `Java Project`
 
 ![drawing](/images/screenshot_0.png)
 
