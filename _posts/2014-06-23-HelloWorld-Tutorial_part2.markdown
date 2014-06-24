@@ -20,7 +20,9 @@ Writing your first code:
 ![drawing](/images/screenshot_7.png)
 
 **Step 3:**
-Import the Bridges package.
+
+> Import the Bridges package.
+
 {% highlight java  %}
 
 import bridges.*;
@@ -28,7 +30,9 @@ import bridges.*;
 {% endhighlight %}
 
 **Step 4:**
-Create a new GraphVisualizer. 
+
+> Create a new GraphVisualizer. 
+
 {% highlight java  %}
 
 GraphVisualizer gv = new GraphVisualizer();
@@ -36,7 +40,9 @@ GraphVisualizer gv = new GraphVisualizer();
 {% endhighlight %}
 
 **Step 5:**
-Initialize Bridges. Your API key should have been generated in Part 1, this is where it goes.
+
+> Initialize Bridges. Your API key should have been generated in Part 1, this is where it goes.
+
 {% highlight java  %}
 
 Bridge.init(0, "Your API key here", gv);
@@ -44,7 +50,9 @@ Bridge.init(0, "Your API key here", gv);
 {% endhighlight %}
 
 **Step 6:**
-Create your first Vertex. HelloWorld is what we are going to name our first vertex.
+
+> Create your first Vertex. HelloWorld is what we are going to name our first vertex.
+
 {% highlight java  %}
 
 Vertex HelloWorld = new Vertex("HelloWorld", gv);
@@ -52,7 +60,9 @@ Vertex HelloWorld = new Vertex("HelloWorld", gv);
 {% endhighlight %}
 
 **Step 7:**
-Submit the visualization data.
+
+> Submit the visualization data.
+
 {% highlight java  %}
 
 Bridge.complete();
@@ -62,9 +72,8 @@ Bridge.complete();
 **Step 8:**
 
 > Finally we need to run our program.
+In the console there will be a string giving you a link to view your visualization.
 
-> In the console there will be a string giving you a link to view your visualization.
-
-> `Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_WILL_BE_HERE`
+`Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_WILL_BE_HERE`
 
 > Copy and paste the URL into your favorite browser in order to view your visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with your Bridges user name.
