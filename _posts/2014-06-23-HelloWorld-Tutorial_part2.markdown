@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Hello World Visualization - Part 2"
-date:   2014-06-23 13:14:36
 categories: jekyll update
 ---
 
