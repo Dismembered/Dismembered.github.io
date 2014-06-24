@@ -21,7 +21,7 @@ categories: jekyll update
 
 **Step 3:**
 
-> Import the Bridges package.
+> Import the Bridges package. This gives you access to all the classes/methods you will need to create a graph or any other data structure you wish to visualize in the future.
 
 {% highlight java  %}
 
