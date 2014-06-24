@@ -5,7 +5,7 @@ date:   2014-06-23 13:14:36
 categories: jekyll update
 ---
 
-Installation and Setup:
+#Installation and Setup:
 
 Download and install Eclipse [here](https://www.eclipse.org/downloads/index-java8.php). Choose  `IDE for Java Developers` from the list.
 
