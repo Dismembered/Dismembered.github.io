@@ -9,19 +9,19 @@ categories: jekyll update
 
 **Step 1:**
 
-> Create a new class within your project. `File`->`Class`.
+> Lets create a new class within our project. `File`->`Class`.
 
 ![drawing](/images/screenshot_6.png)
 
 **Step 2:**
 
-> In the new window set the `Package` field to your name. Set the `Name` field to HelloWorld (this is the name of the class). Tick the box to create `public static void main(String[] args)` (this will have Eclipse create a main method for you within your newly created class). Then click `Finish` in the lower right corner.
+> In the new window set the `Package` field to your name. Set the `Name` field to HelloWorld (this is the name of the class). Tick the box to create `public static void main(String[] args)` (this will have Eclipse create a main method for us within our newly created class). Then click `Finish` in the lower right corner.
 
 ![drawing](/images/screenshot_7.png)
 
 **Step 3:**
 
-> Import the Bridges package. This gives you access to all the classes/methods needed to create a graph or any other data structure visualization in the future.
+> Import the Bridges package. This gives us access to all the classes/methods needed to create a graph or any other data structure visualization in the future.
 
 {% highlight java  %}
 
@@ -31,7 +31,7 @@ import bridges.*;
 
 **Step 4:**
 
-> Create a new GraphVisualizer. This is an object that will contain all the graph data.
+> Create a new GraphVisualizer object. This is an object that will contain all the graph data.
 
 {% highlight java  %}
 
