@@ -20,7 +20,7 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 **Step 2:**
 
-> In the new window change the `Project name` field input your name. Then click `Finish` in the lower right hand corner.
+> In the new window change the `Project name` field to your name. Then click `Finish` in the lower right hand corner.
 
 ![drawing](/images/screenshot_1.png)
 
@@ -32,13 +32,13 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 **Step 4:**
 
-> In the new window change the `Artifact Id` field to Hello World then click `Finish` in the lower right hand corner.
+> In the new window change the `Artifact Id` field to HelloWorld then click `Finish` in the lower right hand corner.
 
 ![drawing](/images/screenshot_3.png)
 
 **Step 5:**
 
-> Double-click the pom.xml in the `Package Explorer` to open it. Click the `pom.xml` tab at the bottom of the scren to activate it. You should now see something like this.
+> Double-click the pom.xml in the `Package Explorer` to open it. Click the `pom.xml` tab at the bottom of the screen to activate it. You should now see something like this.
 
 ![drawing](/images/screenshot_4.png)
 
