@@ -27,15 +27,24 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 ![drawing](/images/screenshot_3.png)
 
-**Step 5:**Double-click the pom.xml in the `Package Explorer` to open it. Click the `pom.xml` tab at the bottom of the scren to activte it. You should now see something like this.
+**Step 5:**Double-click the pom.xml in the `Package Explorer` to open it. Click the `pom.xml` tab at the bottom of the scren to activate it. You should now see something like this.
 
 ![drawing](/images/screenshot_4.png)
-![drawing](/images/screenshot_5.png)
-![drawing](/images/screenshot_6.png)
-![drawing](/images/screenshot_7.png)
-![drawing](/images/screenshot_8.png)
 
-`Insert statements about downloading the Java Bridges Client`
+**Step 6:**Not sure where this came from.
+
+![drawing](/images/screenshot_5.png)
+
+**Step 7:**`File`->`Class`.
+
+![drawing](/images/screenshot_6.png)
+
+**Step 8:**Set the `Package field` to your name. Set the `Name` field to HelloWorld (this is the name of the class). Tick the box to create `public static void main(String[] args)` (this will have Eclipse create a main method for you within your newly created class). Then click `Finish` in the lower right corner.
+
+![drawing](/images/screenshot_7.png)
+
+Congratulations, you are now ready to start writing code!
+
 
 Writing your first code:
 
