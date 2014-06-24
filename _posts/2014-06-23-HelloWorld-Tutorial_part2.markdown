@@ -77,3 +77,5 @@ In the console there will be a string giving you a link to view your visualizati
 `Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_WILL_BE_HERE`
 
 > Copy and paste the URL into your favorite browser in order to view your visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with your Bridges user name.
+
+Congratulations on creating your very first visualization with Bridges!
