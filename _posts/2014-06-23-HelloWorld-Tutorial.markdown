@@ -41,22 +41,22 @@ Not sure where this came from.
 
 ![drawing](/images/screenshot_5.png)
 
-**Step 7:**
-`File`->`Class`.
-
-![drawing](/images/screenshot_6.png)
-
-**Step 8:**
-In the new window set the `Package` field to your name. Set the `Name` field to HelloWorld (this is the name of the class). Tick the box to create `public static void main(String[] args)` (this will have Eclipse create a main method for you within your newly created class). Then click `Finish` in the lower right corner.
-
-![drawing](/images/screenshot_7.png)
-
 Congratulations, you are now ready to start writing code!
 
 
 Writing your first code:
 
 **Step 1:**
+`File`->`Class`.
+
+![drawing](/images/screenshot_6.png)
+
+**Step 2:**
+In the new window set the `Package` field to your name. Set the `Name` field to HelloWorld (this is the name of the class). Tick the box to create `public static void main(String[] args)` (this will have Eclipse create a main method for you within your newly created class). Then click `Finish` in the lower right corner.
+
+![drawing](/images/screenshot_7.png)
+
+**Step 3:**
 Import the Bridges package.
 {% highlight java  %}
 
@@ -64,10 +64,7 @@ import bridges.*;
 
 {% endhighlight %}
 
-**Step 2:**
-Create a new class within the `YourName package` named `HelloWorld`.
-
-**Step 3:**
+**Step 4:**
 Create a new GraphVisualizer. 
 {% highlight java  %}
 
@@ -75,7 +72,7 @@ GraphVisualizer gv = new GraphVisualizer();
 
 {% endhighlight %}
 
-**Step 4:**
+**Step 5:**
 Initialize Bridges.
 {% highlight java  %}
 
@@ -83,7 +80,7 @@ Bridge.init(0, "Your API key here", gv);
 
 {% endhighlight %}
 
-**Step 5:**
+**Step 6:**
 Create your first Vertex.
 {% highlight java  %}
 
@@ -91,7 +88,7 @@ Vertex HelloWorld = new Vertex("HelloWorld", gv);
 
 {% endhighlight %}
 
-**Step 6:**
+**Step 7:**
 Submit the visualization data.
 {% highlight java  %}
 
@@ -99,7 +96,7 @@ Bridge.complete();
 
 {% endhighlight %}
 
-**Step 7:**
+**Step 8:**
 View your visualization.
 
 In the console there will be a string giving you a link to view your visualization.
