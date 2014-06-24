@@ -14,11 +14,12 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 **Step 1:**
 
-> Eclipse and create a new Java Project. `File` -> `Java Project`
+> Open Eclipse and create a new Java Project. `File` -> `Java Project`
 
 ![drawing](/images/screenshot_0.png)
 
 **Step 2:**
+
 > In the new window change the `Project name` field input your name. Then click `Finish` in the lower right hand corner.
 
 ![drawing](/images/screenshot_1.png)
