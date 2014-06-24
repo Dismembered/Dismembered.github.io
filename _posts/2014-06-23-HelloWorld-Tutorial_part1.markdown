@@ -38,7 +38,7 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 **Step 5:**
 
-> Double-click the pom.xml in the `Package Explorer` to open it. Click the `pom.xml` tab at the bottom of the screen to activate it. You should now see something like this.
+> Double-click `pom.xml` in the `Package Explorer` in your newly created package to open it. Click the `pom.xml` tab at the bottom of the screen to activate it. You should now see something like this.
 
 ![drawing](/images/screenshot_4.png)
 
