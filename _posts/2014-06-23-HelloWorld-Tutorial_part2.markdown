@@ -5,7 +5,8 @@ date:   2014-06-23 13:14:36
 categories: jekyll update
 ---
 
-Writing your first code:
+## Writing your first code:
+-----
 
 **Step 1:**
 
