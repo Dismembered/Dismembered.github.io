@@ -60,6 +60,7 @@ Bridge.complete();
 {% endhighlight %}
 
 **Step 8:**
+
 > Finally we need to run our program.
 
 > In the console there will be a string giving you a link to view your visualization.
