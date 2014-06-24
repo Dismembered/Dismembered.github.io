@@ -44,4 +44,4 @@ Not sure where this came from.
 
 Congratulations, you are now ready to start writing code!
 
-[Continue to Part 2](/_posts/2014-06-23-HelloWorld-Tutorial_part2.markdown)
+[Continue to Part 2](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part2/)
