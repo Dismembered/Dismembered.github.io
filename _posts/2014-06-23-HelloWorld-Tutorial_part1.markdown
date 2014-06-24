@@ -9,10 +9,9 @@ categories: jekyll update
 
 -----
 
-Download and install Eclipse [here](https://www.eclipse.org/downloads/index-java8.php). Under Package Solutions choose `Eclipse IDE for Java Developers` from the list.
+Download and install Eclipse found here [here](https://www.eclipse.org/downloads/index-java8.php). Under Package Solutions choose `Eclipse IDE for Java Developers` from the list.
 
-Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and create an account. After you create your account, click on your profile name name in the upper right corner to view your profile. Once in your profile, click `Generate new API key` and remember the number generated.
-
+Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and create an account. After you create your account, click on your profile name name in the upper right corner to view your profile. Once in your profile, click `Generate new API key` you will need this number later.
 **Step 1:**
 
 > Open Eclipse and create a new Java Project. `File` -> `Java Project`
