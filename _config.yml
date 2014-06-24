@@ -1,9 +1,7 @@
 # Site settings
 title: B.R.I.D.G.E.S.
-email: noThanks.com
 description: "Bridging Real-world Infastructure Designed to Goal-align, Engage, and Stimulate."
 baseurl: ""
-url: "win.com"
 
 # Build settings
 markdown: kramdown
