@@ -101,7 +101,7 @@ View your visualization.
 
 In the console there will be a string giving you a link to view your visualization.
 
-`Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_HERE`
+`Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_WILL_BE_HERE`
 
-Where the URL says `YOUR_USERNAME` be sure to replace it with your actual user name. Copy and paste the URL into your favorite browser to view your visualization.
+Copy and paste the URL into your favorite browser to view your visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with your Bridges user name.
 
