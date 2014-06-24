@@ -13,13 +13,12 @@ Download and install Eclipse [here](https://www.eclipse.org/downloads/index-java
 Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and create an account. After you create your account, click on your profile name name in the upper right corner to view your profile. Once in your profile, click `Generate new API key` and remember the number generated.
 
 **Step 1:**
-Start Eclipse and create a new Java Project.
-:`File` -> `Java Project`
+> Eclipse and create a new Java Project. `File` -> `Java Project`
 
 ![drawing](/images/screenshot_0.png)
 
 **Step 2:**
-In the new window change the `Project name` field input your name. Then click `Finish` in the lower right hand corner.
+> In the new window change the `Project name` field input your name. Then click `Finish` in the lower right hand corner.
 
 ![drawing](/images/screenshot_1.png)
 
