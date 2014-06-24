@@ -22,7 +22,13 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 **Step 3:**Right-click your package (it should be your name) in the `Package Explorer` and click on `Configure` -> `Convert to Maven Projecr`.
 
 ![drawing](/images/screenshot_2.png)
+
+**Step 4:**Change the `Artifact Id` field to Hello World and click `Finish` in the lower right hand corner.
+
 ![drawing](/images/screenshot_3.png)
+
+**Step 5:**Double-click the pom.xml in the `Package Explorer` to open it. Click the `pom.xml` tab at the bottom of the scren to activte it. You should now see something like this.
+
 ![drawing](/images/screenshot_4.png)
 ![drawing](/images/screenshot_5.png)
 ![drawing](/images/screenshot_6.png)
