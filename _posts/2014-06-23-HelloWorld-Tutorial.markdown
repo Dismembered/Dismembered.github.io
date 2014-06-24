@@ -12,12 +12,15 @@ Download and install Eclipse [here](https://www.eclipse.org/downloads/index-java
 Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and create an account. After you create your account, click on your profile name name in the upper right corner to view your profile. Once in your profile, click `Generate new API key` and remember the number generated.
 
 **Step 1:**`File` -> `New Java Project`
+
 ![drawing](/images/screenshot_0.png)
 
 **Step 2:**In the `Project name` field input your name. Then click `Finish` in the lower right hand corner.
+
 ![drawing](/images/screenshot_1.png)
 
 **Step 3:**Right-click your package (it should be your name) in the `Package Explorer` and click on `Configure` -> `Convert to Maven Projecr`.
+
 ![drawing](/images/screenshot_2.png)
 ![drawing](/images/screenshot_3.png)
 ![drawing](/images/screenshot_4.png)
