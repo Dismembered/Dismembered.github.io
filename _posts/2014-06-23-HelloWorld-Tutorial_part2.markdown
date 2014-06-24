@@ -8,7 +8,7 @@ categories: jekyll update
 Writing your first code:
 
 **Step 1:**
-`File`->`Class`.
+ Create a new class within your project. `File`->`Class`.
 
 ![drawing](/images/screenshot_6.png)
 
@@ -34,7 +34,7 @@ GraphVisualizer gv = new GraphVisualizer();
 {% endhighlight %}
 
 **Step 5:**
-Initialize Bridges.
+Initialize Bridges. Your API key should have been generated in Part 1, this is where it goes.
 {% highlight java  %}
 
 Bridge.init(0, "Your API key here", gv);
@@ -42,7 +42,7 @@ Bridge.init(0, "Your API key here", gv);
 {% endhighlight %}
 
 **Step 6:**
-Create your first Vertex.
+Create your first Vertex. HellowWorld is what we are going to name our first vertex.
 {% highlight java  %}
 
 Vertex HelloWorld = new Vertex("HelloWorld", gv);
@@ -58,10 +58,10 @@ Bridge.complete();
 {% endhighlight %}
 
 **Step 8:**
-View your visualization.
+Finally we need to run our program.
 
 In the console there will be a string giving you a link to view your visualization.
 
 `Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_WILL_BE_HERE`
 
-Copy and paste the URL into your favorite browser to view your visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with your Bridges user name.
+Copy and paste the URL into your favorite browser in order to view your visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with your Bridges user name.
