@@ -72,7 +72,7 @@ Bridge.complete();
 **Step 8:**
 
 > Finally we need to run our program.
-In the console there will be a string giving you a link to view your visualization.
+In the console there will be a string, similar to the one below, giving you a link to view your visualization.
 
 `Check out your visuals at http://bridges.cs.uncc.edu/assignments/0/YOUR_USERNAME?apikey=YOUR_API_KEY_WILL_BE_HERE`
 
