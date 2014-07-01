@@ -63,7 +63,7 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
   	<dependency>
   		<groupId>edu.uncc.cs.bridges</groupId>
   		<artifactId>bridges</artifactId>
-  		<version>[0.3.0,0.4.0)</version>
+  		<version>[0.4.0,0.5.0)</version>
   	</dependency>
   </dependencies>
 {% endhighlight %}
