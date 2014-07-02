@@ -82,6 +82,6 @@ In the console there will be a string, similar to the one below, giving you a li
 
 > Copy and paste the URL into your favorite browser in order to view the visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with the user name that you created on the Bridges website in Part 1.
 
-Congratulations on creating your very first visualization with Bridges!
+Congratulations on creating your very first visualization with Bridges! Below is a sample of what your visualization should look like.
 
 ![drawing](/images/screenshot_9.png)
