@@ -37,13 +37,26 @@ HelloWorld.setColor("red"); OR HelloWorld.setColor("#FF0000");
 {% highlight java %}
 
 HelloWorld.setSize(15);
-HelloWorld.setOpacity(0.5);
 
 Vertex GoodByeWorld = new Vertex("GoodByeWorld", gv);
 
 {% endhighlight %}
 
 ![drawing](/images/screenshot_12.png)
+
+## Step 3: Connecting the vertices
+
+> We only need the two vertices that we want to connect and one method call.
+
+{% highlight java %}
+
+HellowWorld.createEdge(GoodByeWorld);
+
+{% endhighlight %}
+
+![drawing](/images/screenshot_13.png)
+
+## Step 4: Changing the properties of edges
 
 [Return to Part 1](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part1/)
 
