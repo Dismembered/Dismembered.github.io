@@ -85,3 +85,6 @@ In the console there will be a string, similar to the one below, giving you a li
 Congratulations on creating your very first visualization with Bridges! Below is a sample of what your visualization should look like.
 
 ![drawing](/images/screenshot_9.png)
+
+[Continue to Part 3](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part3/)
+[Return to Part 1](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part1/)
