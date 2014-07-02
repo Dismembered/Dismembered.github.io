@@ -24,13 +24,26 @@ Lets start off by managing the properties of that vertice. Each vertex and edge 
 
 {% highlight java %}
 
-HelloWorld.setColor("red"); OR HelloWorld.setcolor("#FF0000");
+HelloWorld.setColor("red"); OR HelloWorld.setColor("#FF0000");
 
 {% endhighlight %}
 
 ![drawing](/images/screenshot_11.png)
 
+## Step 2: Further vertex manipulation
 
+> This only requires further method calls on the same vertex to change its properties. We should also go ahead and create another vertex for the next part of the tutorial.
+
+{% highlight java %}
+
+HelloWorld.setSize(15);
+HelloWorld.setOpacity(0.5);
+
+Vertex GoodByeWorld = new Vertex("GoodByeWorld", gv);
+
+{% endhighlight %}
+
+![drawing](/images/screenshot_12.png)
 
 [Return to Part 1](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part1/)
 
