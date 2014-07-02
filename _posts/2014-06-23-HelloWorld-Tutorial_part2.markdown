@@ -6,6 +6,8 @@ categories: jekyll update
 
 ## Writing your first code:
 -----
+> This will be our first visualiztion.
+
 ![drawing](/images/screenshot_9.png)
 
 
@@ -81,3 +83,5 @@ In the console there will be a string, similar to the one below, giving you a li
 > Copy and paste the URL into your favorite browser in order to view the visualization. Where the URL says `YOUR_USERNAME` be sure to replace it with the user name that you created on the Bridges website in Part 1.
 
 Congratulations on creating your very first visualization with Bridges!
+
+![drawing](/images/screenshot_9.png)
