@@ -87,4 +87,5 @@ Congratulations on creating your very first visualization with Bridges! Below is
 ![drawing](/images/screenshot_9.png)
 
 [Continue to Part 3](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part3/)
+
 [Return to Part 1](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part1/)
