@@ -6,7 +6,7 @@ categories: jekyll update
 
 ## Writing your first code:
 -----
-This will be our first visualiztion.
+To give you a preview, this is what we will be creating in this part of the tutorial.
 
 ![drawing](/images/screenshot_9.png)
 
