@@ -58,6 +58,18 @@ HellowWorld.createEdge(GoodByeWorld);
 
 ## Step 4: Changing the properties of edges
 
+> We can manipulate the edges of connected vertices the same way that we manipulate the vertices themselves. We just need to access the edge itself and the properties are just a method call away.
+
+{% highlight java %}
+
+HelloWorld.getEdge(GoodByeWorld).setColor("yellow");
+
+{% endhighlight %}
+
+![drawing](/images/screenshot_10.png)
+
+Congratulations, you have just finished your first graph representation!
+
 [Return to Part 1](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part1/)
 
 [Return to Part 2](http://dismembered.github.io/jekyll/update/2014/06/23/HelloWorld-Tutorial_part2/)
