@@ -6,6 +6,8 @@ categories: jekyll update
 
 ## Writing your first code:
 -----
+![drawing](/images/screenshot_9.png)
+
 
 **Step 1:**
 
