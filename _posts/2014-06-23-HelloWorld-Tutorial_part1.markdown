@@ -47,8 +47,9 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 > Paste the following bits into your maven `pom.xml`. It adds a dependency to your
 > project for Bridges, and also installs a repository for fetching that dependency
 > and for later updates. Later on, you can update easily by opening your project folder
-> in the left panel and pressing Alt-F5
+> in the left panel and pressing Alt-F5.
 
+> Note: Pay extra attention to where you place the code when pasting it into the pom.xml.
 > Note to developers: For the latest, possibly broken version, replace the version with:
 > [0.99.0,1.0.0)
 
