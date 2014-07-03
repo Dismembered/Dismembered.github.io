@@ -4,7 +4,7 @@ title:  "Hello World Visualization - Part 3"
 categories: jekyll update
 ---
 
-## Continuing your graph visualization:
+## Continuing our graph visualization:
 -----
 At the end of this section of the tutorial you will know how to create edges and manipulate Vertex and Edge properties. This is what you will be creating.
 
