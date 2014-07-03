@@ -51,7 +51,7 @@ Vertex GoodByeWorld = new Vertex("GoodByeWorld", gv);
 
 {% highlight java %}
 
-HellowWorld.createEdge(GoodByeWorld);
+HelloWorld.createEdge(GoodByeWorld);
 
 {% endhighlight %}
 
