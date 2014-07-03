@@ -6,13 +6,14 @@ categories: jekyll update
 
 ## Continuing our graph visualization:
 -----
-When we left off last we had just created our first visualization and displayed our first vertex. It should have looked something like this.
-
-![drawing](/images/screenshot_9.png)
 
 During this section of the tutorial we will learn how to create edges and manipulate vertex and edge properties. This is what we will be creating.
 
 ![drawing](/images/screenshot_10.png)
+
+When we left off last we had just created our first visualization and displayed our first vertex. It should have looked something like this.
+
+![drawing](/images/screenshot_9.png)
 
 Lets start off by managing the properties of that vertice. Each vertex and edge that we create has access to an array of properties to manage their appearance. The first property we will look at is the color property.
 
