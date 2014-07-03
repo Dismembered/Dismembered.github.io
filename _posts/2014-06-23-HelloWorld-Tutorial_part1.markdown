@@ -51,6 +51,7 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 > Note: Pay extra attention to where you place the code when pasting it into the pom.xml.
 > Note to developers: For the latest, possibly broken version, replace the version with:
+
 > [0.99.0,1.0.0)
 
 {% highlight xml %}
