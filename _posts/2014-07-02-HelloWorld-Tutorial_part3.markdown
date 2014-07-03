@@ -20,7 +20,7 @@ Lets start off by managing the properties of that vertice. Each vertex and edge 
 
 > First we want to use the vertex that we want to manipulate and call the appropriate method, in this case the .setColor() method. Bridges is set up to accept strings or the CSS color value.
 
-> Note: If you do not choose a value that is in our list you will recieve an InvalidValueException. Thats okay just choose a different color.
+> Note: If you do not choose a value that is in our list you will recieve an InvalidValueException exception. Thats okay just choose a different color.
 
 {% highlight java %}
 
