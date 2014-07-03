@@ -49,11 +49,6 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 > and for later updates. Later on, you can update easily by opening your project folder
 > in the left panel and pressing Alt-F5.
 
-> Note: Pay extra attention to where you place the code when pasting it into the pom.xml.
-
-> Note to developers: For the latest, possibly broken version, replace the version with:
-> [0.99.0,1.0.0)
-
 {% highlight xml %}
   <repositories>
     <repository>
@@ -69,6 +64,11 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
   	</dependency>
   </dependencies>
 {% endhighlight %}
+
+> Note: Pay extra attention to where you place the code when pasting it into the pom.xml.
+
+> Note to developers: For the latest, possibly broken version, replace the version with:
+> [0.99.0,1.0.0)
 
 ![drawing](/images/screenshot_5.png)
 
