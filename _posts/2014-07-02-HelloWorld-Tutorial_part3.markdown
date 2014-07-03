@@ -10,7 +10,7 @@ When we left off last we had just created our first visualization and displayed 
 
 ![drawing](/images/screenshot_9.png)
 
-At the end of this section of the tutorial you will know how to create edges and manipulate Vertex and Edge properties. This is what you will be creating.
+During this section of the tutorial we will learn how to create edges and manipulate vertex and edge properties. This is what we will be creating.
 
 ![drawing](/images/screenshot_10.png)
 
