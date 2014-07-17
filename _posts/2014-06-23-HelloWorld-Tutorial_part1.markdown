@@ -67,7 +67,7 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
 
 {% highlight json %}
 {
-	"name": "bridges","version": "0.4.0","visual": graph","nodes": [
+	"name": "bridges","version": "0.4.0","visual": "graph","nodes": [
 		{"color": "black", "name": "Back"},
 		{"color": "pink", "shape": "rect", "size": "20.0", "opacity": "1.0", "name": "Bob"},
 		{"color": "black", "name": "Dave"},{"color": "black", "name": "HelloWorld"},
