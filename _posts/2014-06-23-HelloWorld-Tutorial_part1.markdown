@@ -65,30 +65,6 @@ Go to the Bridges website found [here](http://bridges.cs.uncc.edu/login) and cre
   </dependencies>
 {% endhighlight %}
 
-{% highlight json %}
-{
-    "name": "bridges","version": "0.4.0","visual": "graph","nodes": [
-        {"color": "black", "name": "Back"},
-	{"color": "pink", "shape": "rect", 
-	    "size": "20.0", "opacity": "1.0", "name": "Bob"},
-	{"color": "black", "name": "Dave"},{"color": "black", "name": "HelloWorld"},
-	{"color": "black", "name": "John"},{"color": "black", "name": "Steve"}],
-	    "links": [
-	        {"source":3,"target":0},
-		{"source":3,"target":1},
-		{"source":5,"target":1},
-		{"color": "red", "width": "5.0", "dasharray": "5.0,10.0,5.0", 
-		    "opacity": "0.5", "source":2,"target":4},
-		{"source":3,"target":0},
-		{"source":3,"target":1},
-		{"source":5,"target":3},
-		{"color": "red", "width": "5.0", "dasharray": "5.0,10.0,5.0", 
-		    "opacity": "0.5", "source":2,"target":4},
-		{"source":5,"target":1},
-		{"source":5,"target":3}]
-}
-{% endhighlight %}
-
 > Note: Pay extra attention to where you place the code when pasting it into the pom.xml.
 
 > Note to developers: For the latest, possibly broken version, replace the version with:
